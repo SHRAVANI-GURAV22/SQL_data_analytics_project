@@ -1,8 +1,6 @@
 # SQL_data_analytics_project
 
 
-![Data Analytics Workflow](docs/ Data Analytics Architecture Diagram.png)
-
 The project has two main parts, and the scripts follow them:
 
 ### 1. Exploratory Data Analysis (EDA) — Scripts `01` to `06`
