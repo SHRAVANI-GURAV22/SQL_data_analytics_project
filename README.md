@@ -1,9 +1,16 @@
 # SQL_data_analytics_project
-sql-data-analytics-project/
-├── 00_setup/                        the setup guide, and the one-click Docker start for Mac
-├── 01_datasets/                     the data, as a backup and as CSV files
-│   ├── DataWarehouseAnalytics.bak   the database, ready to restore
-│   └── csv-files/                   the same data, to build the database yourself
-├── 02_docs/                         the project roadmap and notes
-└── 03_scripts/                      the queries, in the order of the videos
-    └── 00_init_database.sql         builds the database from the CSV files
+
+
+![Data Analytics Workflow](docs/data-analytics-roadmap.png)
+
+The project has two main parts, and the scripts follow them:
+
+### 1. Exploratory Data Analysis (EDA) — Scripts `01` to `06`
+
+You get to know the data, from exploring database tables and dimensions to analysing dates, key metrics, and top-performing records.
+
+### 2. Advanced Analytics — Scripts `07` to `13`
+
+You go deeper into the data through change-over-time trends, running totals, performance analysis, part-to-whole analysis, and data segmentation.
+
+Two reports close the project, one for customers and one for products.
