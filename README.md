@@ -1,7 +1,7 @@
 # SQL_data_analytics_project
 
 
-![Data Analytics Workflow](docs/data-analytics-roadmap.png)
+![Data Analytics Workflow](Data Analytics Architecture Diagram.png)
 
 The project has two main parts, and the scripts follow them:
 
